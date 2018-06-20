@@ -2626,40 +2626,4 @@
           "path": [
             "enviro",
             "efservice",
-            "HH_WASTE_QTY_DETAILS/ROWS/:row_start::row_end/:output"
-          ],
-          "variable": [
-            {
-              "id": "output",
-              "value": "{}",
-              "type": "string"
-            },
-            {
-              "id": "row_end",
-              "value": "{}",
-              "type": "string"
-            },
-            {
-              "id": "row_start",
-              "value": "{}",
-              "type": "string"
-            }
-          ]
-        },
-        "method": "GET",
-        "body": {
-          "mode": "raw"
-        },
-        "description": ""
-      },
-      "response": [
-        {
-          "status": "OK",
-          "code": 200,
-          "name": "Response_200",
-          "id": "07816d92-860b-4037-91b0-b27effd9bb92"
-        }
-      ]
-    }
-  ]
-}
+            "HH_WASTE_QTY_DETAILS/ROWS/:row_start:

@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/773-epa-en
 x-kinRank: "8"
 x-alexaRank: "5166"
 tags: EPA Envirofacts
-created: "2018-06-19"
-modified: "2018-06-19"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/epa-envirofacts/master/_listings/epa-envirofacts/apis.md
 specificationVersion: "0.14"
 apis:
