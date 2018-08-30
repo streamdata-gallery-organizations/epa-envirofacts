@@ -1,0 +1,14 @@
+{
+	"name": "Streadata.io API Gallery - EPA Envirofacts",
+	"description": "This is a repository of epa envirofacts APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/epa-envirofacts.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-30",
+	"url": "http://epa-envirofacts.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+	],
+	"tags": "EPA Envirofacts",
+	"include": [
+	]
+}
